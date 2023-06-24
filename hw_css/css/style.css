@@ -1,0 +1,47 @@
+.main_lane_name {
+	font-size: 56px;
+	color: black;
+	background-color: grey;
+	text-align: center;
+}
+.lane_name {
+	font-size: 26px;
+	color: purple;
+	background-color: lightgrey;
+	width: 25%;
+}
+.sm_link {
+	font-size: 26px;
+	background-color: coral;
+}
+nav > ul {
+	list-style-type: none;
+}
+nav > ul > li > a {
+	text-decoration: none;
+	color: black;
+	font-size: 22px;
+}
+nav > ul > li {
+	display: inline;
+	background-color: lightgrey;
+	padding: 18px;
+}
+nav > ul > li > a:hover {
+	background-color: grey;
+}
+p {
+	background-color: powderblue;
+	font-size: 18px;
+}
+li {
+	color: black;
+	background-color: lightgrey;
+	font-size: 20px;
+	width: 15%;
+
+}
+body {
+	background-image: url("../img/banner_blur.png") ;
+	background-repeat: no-repeat;
+}
